@@ -45,5 +45,5 @@
       "secure": false
     }
   },
-  "mongodb": "mongodb://localhost:27017/beate_uhse_feather_api"
+  "mongodb": "mongodb://marceloch2:carneirocrea629@ds157829.mlab.com:57829/heroku_zw19jf20"
 }
