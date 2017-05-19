@@ -1,4 +1,4 @@
-# BeateUhse-feather-api
+# Products-list-featherjs-server
 
 1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
 2. Install your dependencies
