@@ -4,7 +4,7 @@
 2. Install your dependencies
 
     ```
-    cd path/to/BeateUhse-feather-api; npm install
+    cd Products-list-featherjs-server && npm install
     ```
 
 3. Start your app
